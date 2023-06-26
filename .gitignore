@@ -1,0 +1,10 @@
+/bug_manger/local_settings.py
+/db.sqlite3
+.idea
+#__init__文件忽略
+app01/__init__.py
+app01/__pycache__/*
+app01/migrations/*
+bug_manger/__init__.py
+bug_manger/__pycache__/*
+utils/__init__.py
